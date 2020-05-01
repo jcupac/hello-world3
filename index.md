@@ -17,5 +17,9 @@ title: New Page AA
 Note: The text within the square brackets should be a description of the image. It can be blank though to work.
 ![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 
+<img src="https://octodex.github.com/images/jetpacktocat.png"
+height="300">
+
+
 my photo
 ![](images/Lara-Stone-Be-Delicious-designscene-net-01.jpg)
