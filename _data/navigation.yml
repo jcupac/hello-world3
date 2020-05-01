@@ -1,1 +1,21 @@
-# Edit your menu bar here
+Edit your menu bar here
+Edit menu item here
+
+# Site navigation links
+- title: Home
+  url: /
+  
+- title: Presentation
+  url: /presentation/
+  
+- title: CV
+  url: /cv/
+
+- title: Blog
+  url: /blog/
+  
+- title : Workshops
+  url: /workshops/
+  
+- title: Coursework
+  url: /coursework/
