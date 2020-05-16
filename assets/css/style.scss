@@ -1,0 +1,54 @@
+---
+---
+
+// @import "{{ site.theme }}";
+
+// ---
+// # Front matter comment to ensure Jekyll properly reads file.
+// ---
+
+// Add your styles here
+
+// Imports
+// @import "base";
+// @import "type";
+// @import "layout";
+// @import "syntax-highlighting";
+// @import 'bootstrap/bootstrap';
+// @import "{{ site.url }}../../_scss/atomiv.scss";
+
+@import "atomiv";
+
+
+// .test-heading {
+//     color: blue;
+// }
+
+// h4 {
+//     color: blueviolet;
+// }
+
+
+
+// Home page - so heading fits on one line
+@media (min-width: 576px) {
+    .ov-promo h3 {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .heading-break {
+        // br {
+            display: none;
+        // }
+    }
+}
+
+@media (min-width: 992px) {
+    .heading-break {
+        // br {
+            display: none;
+        // }
+    }
+}

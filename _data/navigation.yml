@@ -1,21 +1,17 @@
-Edit your menu bar here
-Edit menu item here
-
-# Site navigation links
 - title: Home
   url: /
-  
-- title: Presentation
-  url: /presentation/
-  
-- title: CV
-  url: /cv/
 
-- title: Blog
-  url: /blog/
+- title: Why
+  url: /why
   
-- title : Workshops
-  url: /workshops/
+- title: Features
+  url: /features
   
-- title: Coursework
-  url: /coursework/
+- title: Docs
+  url: https://docs.atomiv.com/
+  
+- title: About
+  url: /about
+
+- title: Contact
+  url: /contact
